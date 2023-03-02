@@ -136,4 +136,4 @@ class Detail extends React.Component {
   }
 }
 
-export default withRouter(Detail);
+export default Detail;

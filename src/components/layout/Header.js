@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink, Link } from "react-router-dom";
 // import globe from "../Globe.svg";
-import "../styles/Header.css";
+import "./Header.css";
 
 const header = () => {
   return (
